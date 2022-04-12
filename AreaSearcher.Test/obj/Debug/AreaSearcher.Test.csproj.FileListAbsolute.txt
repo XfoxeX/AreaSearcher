@@ -1,0 +1,16 @@
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\AreaSearcher.Test.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\AreaSearcher.Test.pdb
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\AreaSearcher.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\AreaSearcher.pdb
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\obj\Debug\AreaSearcher.Test.csprojAssemblyReference.cache
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\obj\Debug\AreaSearcher.Test.csproj.CoreCompileInputs.cache
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\obj\Debug\AreaSearcher.Test.csproj.CopyComplete
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\obj\Debug\AreaSearcher.Test.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher.Test\obj\Debug\AreaSearcher.Test.pdb

@@ -10,6 +10,12 @@ namespace AreaSearcher.Figures
 
         public Triangle(float firstSide, float secondSide, float thirdSide)
         {
+            if (firstSide <= 0 || secondSide <= 0 || thirdSide <= 0)
+                throw new ArgumentOutOfRangeException("Sides of a triangle cannot be <= 0");
+
+            if (firstSide + secondSide <= thirdSide || firstSide + thirdSide <= secondSide || secondSide + thirdSide <= firstSide)
+                throw new ArgumentException("The sum of the lengths of each two sides must be greater than the length of the third side");
+
             FirstSide = firstSide;
             SecondSide = secondSide;
             ThirdSide = thirdSide;
