@@ -1,0 +1,9 @@
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\bin\Debug\netstandard2.0\AreaSearcher.deps.json
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\bin\Debug\netstandard2.0\AreaSearcher.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\bin\Debug\netstandard2.0\AreaSearcher.pdb
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\obj\Debug\netstandard2.0\AreaSearcher.csprojAssemblyReference.cache
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\obj\Debug\netstandard2.0\AreaSearcher.AssemblyInfoInputs.cache
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\obj\Debug\netstandard2.0\AreaSearcher.AssemblyInfo.cs
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\obj\Debug\netstandard2.0\AreaSearcher.csproj.CoreCompileInputs.cache
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\obj\Debug\netstandard2.0\AreaSearcher.dll
+D:\Programmer\AreaSearcher\AreaSearcher\AreaSearcher\obj\Debug\netstandard2.0\AreaSearcher.pdb
